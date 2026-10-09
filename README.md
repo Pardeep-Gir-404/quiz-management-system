@@ -22,6 +22,6 @@ A Quiz Management System project designed to simplify online assessments. It all
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: [Java]
+Backend: Java
 
 Database: MySQL
